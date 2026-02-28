@@ -1,0 +1,12 @@
+{
+  "domain": "reefer_monitor",
+  "name": "Reefer Monitor Pro",
+  "codeowners": ["@dirkans"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://reefermonitor.com.ar",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://reefermonitor.com.ar",
+  "requirements": [],
+  "version": "1.0.0"
+}
